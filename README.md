@@ -1,4 +1,6 @@
 # Hello! I'm Matheus 👋
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSPQ&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSPQ&layout=compact&theme=radical)  
 
 ## About Me
 
@@ -38,10 +40,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
----
 
-## 📈 GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSPQ&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSPQ&layout=compact&theme=radical)  
+
