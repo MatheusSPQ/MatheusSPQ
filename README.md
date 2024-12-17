@@ -1,6 +1,5 @@
 # Hello! I'm Matheus 👋
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSPQ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSPQ&layout=compact&theme=radical)  
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusSPQ&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSPQ&layout=compact&theme=radical)  
 
 ## About Me
 
